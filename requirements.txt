@@ -1,0 +1,1 @@
+flask yfinance pandas numpy plotly sklearn
