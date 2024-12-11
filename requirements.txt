@@ -1,1 +1,6 @@
-flask yfinance pandas numpy plotly sklearn
+flask==2.1.3
+yfinance==0.2.3
+pandas==1.5.2
+numpy==1.23.5
+plotly==5.11.0
+scikit-learn==1.1.3
